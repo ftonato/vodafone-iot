@@ -16,6 +16,7 @@ Vodafone IoT Portal Dev Test.
 8. That done after a while; I decided that the _UI_ needed to be updated with a _Loading_, so I navigated to *Sam Herbert's* website and found an SVG loading.
 9. I created in the store the control part for Loading to become visible and it was at this point that I decided to use _React Reveal_ to create some animations.
 10. At this moment, it's 00:35 and I need to create the tests, but I'm tired now and I still don't know where to start (I will come soon to continue writing here).
+11. I had forgot to mention that I don't think that is necessary to add a new pre-processor for CSS, then I'm using the _CSS Comb_ to format my styles.
 
 ### Attachments
 
@@ -27,6 +28,7 @@ Vodafone IoT Portal Dev Test.
 - https://samherbert.net/svg-loaders/
 - https://www.react-reveal.com/
 - http://whatthecommit.com/ (just for fun)
+- https://csscomb.herokuapp.com/online
 
 ### Credits
 - Documentations
