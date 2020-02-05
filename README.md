@@ -4,6 +4,10 @@ Vodafone IoT Portal Dev Test.
 
 ![How it works](./vodafone-iot.gif)
 
+## Demonstration
+
+[Click to check this project running on codesandbox](https://codesandbox.io/embed/github/ftonato/vodafone-iot/)
+
 ## Full Process
 
 1. The first step was to re-read the challenge because on the first view it looked so "over-engineering"...
@@ -17,6 +21,8 @@ Vodafone IoT Portal Dev Test.
 9. I created in the store the control part for Loading to become visible and it was at this point that I decided to use _React Reveal_ to create some animations.
 10. At this moment, it's 00:35 and I need to create the tests, but I'm tired now and I still don't know where to start (I will come soon to continue writing here).
 11. I had forgot to mention that I don't think that is necessary to add a new pre-processor for CSS, then I'm using the _CSS Comb_ to format my styles.
+12. I went to the _codesandbox_ to update my project;
+13. Notes about units tests on [NOTES.md](NOTES.md).
 
 ### Attachments
 
@@ -29,6 +35,7 @@ Vodafone IoT Portal Dev Test.
 - https://www.react-reveal.com/
 - http://whatthecommit.com/ (just for fun)
 - https://csscomb.herokuapp.com/online
+- https://codesandbox.io
 
 ### Credits
 - Documentations

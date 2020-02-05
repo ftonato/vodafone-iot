@@ -15,7 +15,6 @@ function* fetchBalance() {
   try {
     yield put(fetchBalanceStart())
     const response = yield call(_fetchBalance);
-    console.log("TCL: function*fetchBalance -> response", response)
     yield put(fetchBalanceSuccess(response.data));
   } catch (e) {
     yield put(fetchBalanceError(e));
